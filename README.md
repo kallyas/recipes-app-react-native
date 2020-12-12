@@ -1,5 +1,28 @@
-# Custom Gitpod Template
+# Recipes App in React Native
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4b4de99cb54f4fd890032eed7b4bd6f2)](https://app.codacy.com/manual/kallyasmedia/gitpod-custom?utm_source=github.com&utm_medium=referral&utm_content=kallyas/gitpod-custom&utm_campaign=Badge_Grade_Dashboard)
+<center><a href="https://www.instamobile.io/app-templates/food-app-template/"><img src="https://www.instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.56.44-PM.png" /></a></center>
 
-custom gitpod docker config
+Download this beautiful free React Native starter kit, featuring a recipes app, to bootstrap your mobile app development. Learn React Native by working on a real project. Get familiar with various native components, navigation, redux and more.
+
+## Expo Demo
+<center><a href=""><img src="https://www.instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.20.29-PM.png" /></a></center>
+
+## Features
+- Recipes List
+- Categories
+- Ingredients
+- Recipes Details Screen
+- Photo Gallery
+- Detailed Description
+- Ingredients button
+- Ingredients List
+- Recipes by Ingredient
+- Search
+- Drawer Menu
+- Navigation Bar
+- Beautiful UI Design Kit
+- Compatible with Expo
+- Highly modularized codebase
+
+
+Coded with 💖💖💖 by <a href="https://www.instamobile.io/">Instamobile</a> and <a href="https://www.instakotlin.com/">Instakotlin</a>.
